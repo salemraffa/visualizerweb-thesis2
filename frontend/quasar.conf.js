@@ -44,7 +44,7 @@ module.exports = function (/* ctx */) {
     // Full list of options: https://quasar.dev/quasar-cli/quasar-conf-js#Property%3A-build
     build: {
       env: {
-        BACKENDURL: 'http://localhost:4001'
+        BACKENDURL: 'http://localhost:5000'
       },
       vueRouterMode: 'hash', // available values: 'hash', 'history'
 
